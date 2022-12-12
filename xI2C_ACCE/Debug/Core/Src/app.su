@@ -1,0 +1,7 @@
+app.c:44:13:uart_Print_accel	32	static
+app.c:54:16:accel_average	32	static
+app.c:65:13:update_buffer	16	static
+app.c:83:13:counting_average	32	static
+app.c:109:6:app_init	8	static
+app.c:118:6:app_game	8	static
+app.c:124:6:app_loop	8	static

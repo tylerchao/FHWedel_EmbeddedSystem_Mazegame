@@ -1,0 +1,6 @@
+maps.c:43:6:Create_rectangular	32	static
+maps.c:56:6:Create_exit	32	static
+maps.c:69:6:map1	24	static
+maps.c:80:6:map2	24	static
+maps.c:91:6:map3	24	static
+maps.c:102:6:map4	24	static

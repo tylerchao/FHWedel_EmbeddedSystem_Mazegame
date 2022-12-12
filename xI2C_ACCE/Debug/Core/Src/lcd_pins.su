@@ -1,0 +1,10 @@
+lcd_pins.c:13:6:RST_1	8	static
+lcd_pins.c:20:6:DI_0	8	static
+lcd_pins.c:27:6:RW_0	8	static
+lcd_pins.c:34:6:EN_0	8	static
+lcd_pins.c:41:6:EN_1	8	static
+lcd_pins.c:49:6:activate_CS1_CS2	8	static
+lcd_pins.c:60:6:write_display_data	8	static
+lcd_pins.c:71:6:write_display_command	8	static
+lcd_pins.c:79:6:leftSide_Screen	8	static
+lcd_pins.c:87:6:rightSide_Screen	8	static

@@ -1,0 +1,16 @@
+score.c:72:13:create_V	24	static
+score.c:86:13:create_Gameover	24	static
+score.c:96:13:create_success	24	static
+score.c:103:13:create_score_sign	24	static
+score.c:110:13:create_zero	24	static
+score.c:116:13:create_one	24	static
+score.c:122:13:create_two	24	static
+score.c:128:13:create_three	24	static
+score.c:134:13:create_four	24	static
+score.c:140:13:create_five	24	static
+score.c:146:13:create_six	24	static
+score.c:152:13:create_seven	24	static
+score.c:158:13:create_eight	24	static
+score.c:164:13:final_score	16	static
+score.c:197:6:failureScore	16	static
+score.c:203:6:goalScore	16	static

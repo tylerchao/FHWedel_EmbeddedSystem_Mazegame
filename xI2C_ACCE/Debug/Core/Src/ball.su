@@ -1,0 +1,13 @@
+ball.c:28:6:LCD_draw_dot	32	static
+ball.c:55:13:create_diff_ball_size	32	static
+ball.c:66:13:clean_diff_ball_size	32	static
+ball.c:80:6:LCD_Create_Ball	24	static
+ball.c:99:6:LCD_Clean_Ball	24	static
+ball.c:114:6:moving_ball_horizontal_left	24	static
+ball.c:140:6:moving_ball_horizontal_right	32	static
+ball.c:169:6:moving_ball_vertical_up	24	static
+ball.c:196:6:moving_ball_vertical_down	32	static
+ball.c:226:6:moving_ball_left_top	32	static
+ball.c:255:6:moving_ball_left_bottom	40	static
+ball.c:286:6:moving_ball_right_top	40	static
+ball.c:319:6:moving_ball_right_bottom	48	static

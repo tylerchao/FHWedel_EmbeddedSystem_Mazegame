@@ -1,0 +1,6 @@
+connect.c:20:12:Is_One_G	32	static
+connect.c:36:12:IsNotMoving	24	static
+connect.c:55:12:Istitlingdirection	24	static
+connect.c:86:6:intialise_ball_starting_pos	16	static
+connect.c:98:6:tilting	8	static
+connect.c:138:6:testing	8	static

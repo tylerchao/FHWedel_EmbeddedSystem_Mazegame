@@ -1,0 +1,7 @@
+gameLogic.c:18:5:isBallReachGoal	24	static
+gameLogic.c:69:12:checkingballCollision	24	static
+gameLogic.c:93:5:isTouchWall	24	static
+gameLogic.c:119:6:allblack	16	static
+gameLogic.c:131:6:allwhite	16	static
+gameLogic.c:143:6:ChangingScenery	8	static
+gameLogic.c:148:5:cal_score	24	static

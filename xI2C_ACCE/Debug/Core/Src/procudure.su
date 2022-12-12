@@ -1,0 +1,5 @@
+procudure.c:32:13:startGame	16	static
+procudure.c:48:13:counter_start	8	static
+procudure.c:55:17:counter_getCount	8	static
+procudure.c:60:6:playgame	16	static
+procudure.c:68:6:gameRunning	8	static
